@@ -1,6 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"PlayerAnimateSprite","path":"scripts/PlayerAnimateSprite/PlayerAnimateSprite.yy",},"order":4,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
+    {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":5,},
     {"id":{"name":"oMaleBaseTraffic","path":"objects/oMaleBaseTraffic/oMaleBaseTraffic.yy",},"order":11,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":6,},
     {"id":{"name":"oMaleLDO","path":"objects/oMaleLDO/oMaleLDO.yy",},"order":10,},
@@ -32,6 +34,7 @@
     {"id":{"name":"pGDO","path":"paths/pGDO/pGDO.yy",},"order":0,},
     {"id":{"name":"oRm505","path":"objects/oRm505/oRm505.yy",},"order":9,},
     {"id":{"name":"oDPBase","path":"objects/oDPBase/oDPBase.yy",},"order":15,},
+    {"id":{"name":"sDPBaseRun","path":"sprites/sDPBaseRun/sDPBaseRun.yy",},"order":21,},
     {"id":{"name":"pLRDO","path":"paths/pLRDO/pLRDO.yy",},"order":1,},
     {"id":{"name":"oMaleGDO","path":"objects/oMaleGDO/oMaleGDO.yy",},"order":8,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":10,},
