@@ -1,11 +1,14 @@
 {
   "spriteId": {
-    "name": "sDPBase",
-    "path": "sprites/sDPBase/sDPBase.yy",
+    "name": "sPlayer",
+    "path": "sprites/sPlayer/sPlayer.yy",
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sPlayer",
+    "path": "sprites/sPlayer/sPlayer.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
