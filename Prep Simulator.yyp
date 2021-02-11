@@ -47,7 +47,6 @@
     {"id":{"name":"oMaleGDO","path":"objects/oMaleGDO/oMaleGDO.yy",},"order":8,},
     {"id":{"name":"sPlayerRun","path":"sprites/sPlayerRun/sPlayerRun.yy",},"order":23,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":10,},
-    {"id":{"name":"rRM801","path":"rooms/rRM801/rRM801.yy",},"order":1,},
     {"id":{"name":"oGameStart","path":"objects/oGameStart/oGameStart.yy",},"order":12,},
     {"id":{"name":"oGrammar_DO","path":"objects/oGrammar_DO/oGrammar_DO.yy",},"order":1,},
     {"id":{"name":"sCar1_Right","path":"sprites/sCar1_Right/sCar1_Right.yy",},"order":1,},
@@ -68,7 +67,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rMainCampus","path":"rooms/rMainCampus/rMainCampus.yy",},},
-    {"roomId":{"name":"rRM801","path":"rooms/rRM801/rRM801.yy",},},
+    {"roomId":{"name":"","path":"",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
