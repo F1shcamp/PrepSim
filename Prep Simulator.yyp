@@ -21,6 +21,7 @@
     {"id":{"name":"oMaleBaseMattD","path":"objects/oMaleBaseMattD/oMaleBaseMattD.yy",},"order":14,},
     {"id":{"name":"oCar1G","path":"objects/oCar1G/oCar1G.yy",},"order":0,},
     {"id":{"name":"sJeep","path":"sprites/sJeep/sJeep.yy",},"order":8,},
+    {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},"order":16,},
     {"id":{"name":"sRm505","path":"sprites/sRm505/sRm505.yy",},"order":13,},
     {"id":{"name":"sCar2Right","path":"sprites/sCar2Right/sCar2Right.yy",},"order":14,},
     {"id":{"name":"sSmallMaleBaseTraffic","path":"sprites/sSmallMaleBaseTraffic/sSmallMaleBaseTraffic.yy",},"order":16,},
